@@ -1,0 +1,31 @@
+a) Ellipse 1
+
+Layout: 
+width: 11px;
+height: 11px;
+flex-shrink: 0;
+
+Style: fill: #73835A;
+
+b) Ellipse 2:
+
+Layout: 
+width: 11px;
+height: 11px;
+flex-shrink: 0;
+
+fill: var(--bakery-landing-14, #A18268);
+
+c) mbadvn-PhotoRoom 2
+
+Layout:
+width: 105.964px;
+height: 224.64px;
+transform: rotate(-25.421deg);
+flex-shrink: 0;
+
+Style:
+background: url(<path-to-image>), lightgray -321.246px 0px / 310.322% 100% no-repeat;
+
+
+(Під хлібом надпис: Традиції можуть бути сучасними з нами)
